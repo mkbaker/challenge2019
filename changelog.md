@@ -3,3 +3,6 @@
 
 #### Sunday, October 27 2019
 * 30 min yoga [Yoga With Adriene: Abs and Arms](https://www.youtube.com/watch?v=HEHdQxdQT5c)
+
+#### Tuesday, October 29 2019
+* Completed [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/)
