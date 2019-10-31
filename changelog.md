@@ -7,7 +7,7 @@
 #### Tuesday, October 29 2019
 * Completed [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/)
 * 20 min yoga practice
-* Continued reading (I FORGOT BOOK NAME, WILL UPDATE)
+* Continued reading A Whole Life's Work 
 * Started a new React project -- portfolio for JM
 
 #### Wednesday, October 30 2019
