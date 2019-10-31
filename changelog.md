@@ -8,4 +8,9 @@
 * Completed [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/)
 * 20 min yoga practice
 * Continued reading (I FORGOT BOOK NAME, WILL UPDATE)
-* Started a new React project
+* Started a new React project -- portfolio for JM
+
+#### Wednesday, October 30 2019
+* DJ Class
+* Read chapter 3 of [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=sr_1_3?keywords=grit&qid=1572535233&sr=8-3)
+* Worked on JM's portfolio
