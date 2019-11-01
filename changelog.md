@@ -18,3 +18,7 @@
 #### Thursday, October 31 2019
 * Practiced guitar
 * Practiced Ableton
+* Completed [PHP: Design Patterns](https://www.lynda.com/PHP-tutorials/publishsubscriber-pattern-action/186870/370549-4.html?autoplay=true)
+
+#### Friday, November 1 2019
+* Completed Unit 1 of [Advanced Google Analytics](https://analytics.google.com/analytics/academy/course/7)
