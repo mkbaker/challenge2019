@@ -22,3 +22,11 @@
 
 #### Friday, November 1 2019
 * Completed Unit 1 of [Advanced Google Analytics](https://analytics.google.com/analytics/academy/course/7)
+
+#### Saturday, Nov 2
+* Did [Yoga for Weight Loss](https://www.youtube.com/watch?v=lMWOrDH694c)
+* Practiced guitar
+
+#### Sunday, Nov 3
+* Worked on JM's portfolio
+* Band practice 
