@@ -30,3 +30,6 @@
 #### Sunday, Nov 3
 * Worked on JM's portfolio
 * Band practice 
+
+#### Monday, Nov 4
+* Continuing chapter 4 of [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=sr_1_3?keywords=grit&qid=1572535233&sr=8-3)
