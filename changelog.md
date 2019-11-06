@@ -36,4 +36,7 @@
 * Tuba practice 
 
 #### Tuesday, Nov 5
-* Continuing chapter 4 of [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=sr_1_3?keywords=grit&qid=1572535233&sr=8-3)
+* Completed chapter 4 of [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=sr_1_3?keywords=grit&qid=1572535233&sr=8-3)
+* Finished reading A Whole Life's Work (14th book of the year!)
+* Worked on JM's portfolio
+* Got a flu shot and a MN driver's license! Not related but important. 
