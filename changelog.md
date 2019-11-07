@@ -40,3 +40,7 @@
 * Finished reading A Whole Life's Work (14th book of the year!)
 * Worked on JM's portfolio
 * Got a flu shot and a MN driver's license! Not related but important. 
+
+#### Wednesday, Nov 6
+* DJ class
+* Continued working through [Advanced Google Analytics](https://analytics.google.com/analytics/academy/course/7)
