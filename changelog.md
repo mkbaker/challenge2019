@@ -48,4 +48,6 @@
 #### Thursday, Nov 7
 * Practiced Ableton
 * Continued working through [Advanced Google Analytics](https://analytics.google.com/analytics/academy/course/7)
+
+#### Friday, Nov 8
 * Completed Chapter 5 [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=sr_1_3?keywords=grit&qid=1572535233&sr=8-3)
