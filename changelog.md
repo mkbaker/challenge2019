@@ -44,3 +44,7 @@
 #### Wednesday, Nov 6
 * DJ class
 * Continued working through [Advanced Google Analytics](https://analytics.google.com/analytics/academy/course/7)
+
+#### Thursday, Nov 7
+* Practiced Ableton
+* Continued working through [Advanced Google Analytics](https://analytics.google.com/analytics/academy/course/7)
