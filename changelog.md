@@ -51,3 +51,7 @@
 
 #### Friday, Nov 8
 * Completed Chapter 5 [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=sr_1_3?keywords=grit&qid=1572535233&sr=8-3)
+* Practiced guitar
+
+#### Saturday, Nov 9
+* Worked on JM's portfolio
