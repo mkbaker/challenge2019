@@ -55,3 +55,8 @@
 
 #### Saturday, Nov 9
 * Worked on JM's portfolio
+
+#### Sunday, Nov 10
+* Finished reading The Icarus Deception
+* Band Practice
+* Tuba gig
