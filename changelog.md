@@ -50,7 +50,7 @@
 * Continued working through [Advanced Google Analytics](https://analytics.google.com/analytics/academy/course/7)
 
 #### Friday, Nov 8
-* Completed Chapter 5 [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=sr_1_3?keywords=grit&qid=1572535233&sr=8-3)
+* Completed Chapter 5 of [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=sr_1_3?keywords=grit&qid=1572535233&sr=8-3)
 * Practiced guitar
 
 #### Saturday, Nov 9
@@ -60,3 +60,6 @@
 * Finished reading The Icarus Deception
 * Band Practice
 * Tuba gig
+
+#### Monday, Nov 11
+* Continued Chapter 6 of [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=sr_1_3?keywords=grit&qid=1572535233&sr=8-3)
