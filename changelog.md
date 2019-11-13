@@ -63,3 +63,10 @@
 
 #### Monday, Nov 11
 * Continued Chapter 6 of [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=sr_1_3?keywords=grit&qid=1572535233&sr=8-3)
+
+#### Tuesday, Nov 12
+* Finished Chapter 6 of [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=sr_1_3?keywords=grit&qid=1572535233&sr=8-3)
+
+#### Wednesday, Nov 13
+* Reading Chapter 7 of [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=sr_1_3?keywords=grit&qid=1572535233&sr=8-3)
+* DJ Class
