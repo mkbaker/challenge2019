@@ -74,3 +74,10 @@
 #### Thursday, Nov 14
 * Reading Chapter 7 of [Grit](https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111116/ref=sr_1_3?keywords=grit&qid=1572535233&sr=8-3)
 * DJ practice
+
+#### Friday, Nov 15
+
+#### Saturday, Nov 16
+* Ableton Practice
+
+#### Sunday, Nov 16
